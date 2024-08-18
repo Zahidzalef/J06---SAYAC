@@ -11,6 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="198dp"
         android:layout_height="105dp"
+        android:gravity="center"
         android:text="Left : "
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
